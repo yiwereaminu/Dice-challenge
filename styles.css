@@ -25,7 +25,7 @@ h1 {
 p {
   font-size: 2rem;
   color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Hel', cursive;
 }
 
 img {
@@ -33,7 +33,7 @@ img {
 }
 
 footer {
-  margin-top: 10%;
+  margin-top: 5%;
  
   text-align: center;
   font-family: 'montserrat-thin', serif;
@@ -48,23 +48,26 @@ footer {
 }
 .footer-p{
   text-align: center;
+  font-size: 1rem;
+  color: #4ECCA3;
+  font-family: 'IBM Plex Sans', sans-serif;
   
 }
 .facebook{
-     color: #8f8f8f;
+     color:#4ECCA3;
 }
 .twitter{
 
-  color: #8f8f8f;
+  color: #4ECCA3;
 }
 
 .instagram{
-  color: #8f8f8f;
+  color: #4ECCA3;
 
 }
 .envelope{
 
-  color: #8f8f8f;
+  color: #4ECCA3;
 
   
 }

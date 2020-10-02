@@ -36,6 +36,35 @@ footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'montserrat-thin', serif;
 
+}
+#footer{
+  color: #8f8f8f;
+  
+  text-align: center;
+  
+
+}
+.footer-p{
+  text-align: center;
+  
+}
+.facebook{
+     color: #8f8f8f;
+}
+.twitter{
+
+  color: #8f8f8f;
+}
+
+.instagram{
+  color: #8f8f8f;
+
+}
+.envelope{
+
+  color: #8f8f8f;
+
+  
 }
